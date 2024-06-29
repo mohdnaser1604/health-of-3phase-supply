@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Energy Efficiency Monitoring System/ health of 3phase supply</title>
+    <title><strong>Health of 3phase supply </strong></title>
 </head>
 <body>
 
