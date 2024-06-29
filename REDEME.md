@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Energy Efficiency Monitoring System</title>
+    <title>Energy Efficiency Monitoring System/ health of 3phase supply</title>
 </head>
 <body>
 
@@ -60,7 +60,7 @@
 <ol>
     <li>
         <strong>Clone the Repository</strong>
-        <pre><code>git clone https://github.com/mohdnaser1604/energy-efficiency-monitoring.git</code></pre>
+        <pre><code>git clone [(https://github.com/mohdnaser1604/health-of-3phase-supply.git)]</code></pre>
     </li>
     <li><strong>Open the Project</strong>: Open the project in STM32CubeIDE or another STM32-compatible IDE.</li>
     <li><strong>Build the Firmware</strong>: Compile the project to generate the firmware binary.</li>
