@@ -39,7 +39,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/mohdnaser1604/energy-efficiency-monitoring.git
+git clone [(https://github.com/mohdnaser1604/health-of-3phase-supply.git)]
 Open the Project
 
 Open the project in STM32CubeIDE or another STM32-compatible IDE.
