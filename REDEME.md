@@ -25,7 +25,7 @@
     <li><a href="#code-structure">Code Structure</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+   
 </ul>
 
 <h2 id="project-description">Project Description</h2>
@@ -105,11 +105,6 @@
     This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.
 </p>
 
-<h2 id="acknowledgments">Acknowledgments</h2>
-<p>
-    <strong>Hioctane Labs</strong> for providing the opportunity to work on this project.<br>
-    <strong>Dr. Ayesha Naaz</strong>, Head, Department of Electronics and Communication Engineering, for the support and guidance.
-</p>
 
 </body>
 </html>
