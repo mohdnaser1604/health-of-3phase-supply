@@ -82,10 +82,8 @@ union FloatBytes {         // Union to convert between float and byte array
 
 void RxFuncData(void) {
 	 RxData[i] = LL_USART_ReceiveData8(USART1);// Receive data from USART1
-
-	 i++;// Increment index
+           i++;// Increment index
 }
-
 
 
 void sendData (uint8_t *data)
