@@ -2,8 +2,8 @@
 
 This project monitors the health of a 3-phase electrical supply, focusing on critical electrical parameters required for the safe operation of equipment.
 
-Energy Efficiency Monitoring System
-Project Overview
+#Energy Efficiency Monitoring System <br>
+##Project Overview
 The Energy Efficiency Monitoring System is a project developed as part of an internship at Hioctane Labs. The system is designed to monitor the energy efficiency of electrical equipment by tracking key electrical parameters. The project uses the STM32F103 microcontroller to collect data from an MFM384 multi-function meter and analyze the collected data for energy efficiency assessment.
 
 Table of Contents
